@@ -6,7 +6,6 @@ public class SymbolOccurance {
         for(char currentChar : str.toCharArray()){
             if(currentChar == symbol){
                 count++;
-
             }
         }
         return count;

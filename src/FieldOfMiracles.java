@@ -12,7 +12,6 @@ public class FieldOfMiracles {
 
         Random random = new Random();
 
-
         String word = words[random.nextInt(words.length)];
         System.out.println("*heavy breathing*  You cannot escape your fate." +
                 " Find the hidden word, or darkness will consume you.");
